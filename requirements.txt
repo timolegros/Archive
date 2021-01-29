@@ -1,0 +1,11 @@
+pandas ~= 1.2.1
+scikit-learn ~= 0.24.1
+numpy ~= 1.19.5
+matplotlib ~= 3.3.4
+jupyter ~= 1.0.0
+pydot ~= 1.4.1
+tensorflow ~= 2.4.1
+
+
+# CUDA 11.0 if using on Cuda enabled GPU
+# Graphviz must be installed for plot_model to work https://graphviz.gitlab.io/download/4
